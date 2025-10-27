@@ -1,6 +1,6 @@
 # Zombie Shooter
 
-![Zombie Shooter Banner](Main Menu.png)
+![Zombie Shooter Banner](https://github.com/SuhaibAnwaar/Zombie-Shooter/blob/aacc586d490829446ef8bd0324648b104bd179b3/Main%20Menu.png)
 > A wave-based survival shooter built with Unreal Engine and C++
 
 ## 🎮 Play the Game
@@ -63,13 +63,13 @@ Zombie Shooter is a fast-paced, wave-based survival game where the player must f
 
 ## 📸 Screenshots
 
-![Gameplay 1](Game Image 1.png)
+![Gameplay 1](https://github.com/SuhaibAnwaar/Zombie-Shooter/blob/aacc586d490829446ef8bd0324648b104bd179b3/Game%20Image%201.png)
 *Wave-based survival action*
 
-![Gameplay 2](Game Image 2.png)
+![Gameplay 2](https://github.com/SuhaibAnwaar/Zombie-Shooter/blob/aacc586d490829446ef8bd0324648b104bd179b3/Game%20Image%202.png)
 *Advanced weapon system with multiple ammo types*
 
-![Gameplay 3](Game Image 3.png)
+![Gameplay 3](https://github.com/SuhaibAnwaar/Zombie-Shooter/blob/aacc586d490829446ef8bd0324648b104bd179b3/Game%20Image%203.png)
 *Zombie AI with chase behavior*
 
 ### Controls
