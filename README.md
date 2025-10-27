@@ -1,6 +1,6 @@
 # Zombie Shooter
 
-![Zombie Shooter Banner](screenshots/banner.png)
+![Zombie Shooter Banner](Main Menu.png)
 > A wave-based survival shooter built with Unreal Engine and C++
 
 ## 🎮 Play the Game
@@ -63,19 +63,20 @@ Zombie Shooter is a fast-paced, wave-based survival game where the player must f
 
 ## 📸 Screenshots
 
-![Gameplay 1](screenshots/gameplay1.png)
+![Gameplay 1](Game Image 1.png)
 *Wave-based survival action*
 
-![Gameplay 2](screenshots/gameplay2.png)
+![Gameplay 2](Game Image 2.png)
 *Advanced weapon system with multiple ammo types*
 
-![Gameplay 3](screenshots/gameplay3.png)
+![Gameplay 3](Game Image 3.png)
 *Zombie AI with chase behavior*
 
 ### Controls
 - **WASD** - Movement
 - **Space** - Jump 
 - **Mouse** - Aim
+- **Q** - Pause
 - **Left Click** - Shoot
 - **Right CLick** - Reload
 - **Mouse Scroll Wheel** - Switch Multi ammo
